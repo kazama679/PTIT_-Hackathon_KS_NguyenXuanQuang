@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "productName": "Cam",
+    "price": 12000,
+    "image": "https://bizweb.dktcdn.net/thumb/grande/100/390/808/products/unnamed-2.jpg?v=1592642521770",
+    "quantity": 20
+  },
+  {
+    "id": 2,
+    "productName": "Táo",
+    "price": 15000,
+    "image": "https://hoaquafuji.com/storage/app/media/anh-sua/cropped-images/tao-do-2-6-16-794-709-1623469683.jpg",
+    "quantity": 30
+  },
+  {
+    "id": 3,
+    "productName": "Xoài",
+    "price": 18000,
+    "image": "https://dichothue.com.vn/upload/elfinder/xoai%20keo%20campuchia.jpg",
+    "quantity": 25
+  }
+]
